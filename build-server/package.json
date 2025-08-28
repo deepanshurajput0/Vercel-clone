@@ -1,0 +1,17 @@
+{
+  "name": "build-server",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.876.0",
+    "mime-types": "^3.0.1"
+  }
+}
